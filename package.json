@@ -12,6 +12,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "jetifier": "^1.6.5",
     "react": "16.8.3",
     "react-native": "0.59.3",
     "react-native-firebase": "^5.4.0",
